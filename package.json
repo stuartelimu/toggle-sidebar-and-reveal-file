@@ -3,6 +3,6 @@
   "description": "Toggle sidebar and reveal current file",
   "author":   "Stuart Elimu",
   "homepage": "https://github.com/stuartelimu/toggle-sidebar-and-reveal-file",
-  "labels": ["sidebar"],
+  "labels": ["sidebar", "toggle"],
   "version": "1.0.0"
 }
