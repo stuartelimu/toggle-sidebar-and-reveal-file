@@ -1,0 +1,8 @@
+{
+  "name": "Toggle Sidebar and Reveal Current File",
+  "description": "Toggle sidebar and reveal current file",
+  "author":   "Stuart Elimu",
+  "homepage": "https://github.com/stuartelimu/toggle-sidebar-and-reveal-file",
+  "labels": ["sidebar"],
+  "version": "1.0.0"
+}
